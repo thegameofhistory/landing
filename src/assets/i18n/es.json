@@ -1,0 +1,12 @@
+{
+  "home": "Inicio",
+  "about": "Acerca de",
+  "news": "Noticias",
+  "signup": "Registrarse",
+  "login": "Iniciar sesión",
+  "desc_marc": "La cocina y la informática siempre han sido dos de mis grandes pasiones. Por eso, en esta etapa profesional que estoy atravesando me estoy especializando como desarrollador de aplicaciones multiplataforma en La Salle BCN, con alto interés en Java, PHP, JS y SQl.",
+  "desc_juan": "Siempre en busca de aprender nuevas tecnologías y me gusta mucho la programación. Me gusta mucho la informática y la cocina, por eso, en esta etapa profesional que estoy atravesando me estoy especializando como desarrollador de aplicaciones multiplataforma en La Salle BCN, con alto interés en Angular, Java, PHP, JS y Swift.",
+  "about_us": "Sobre nosotros",
+  "owners_t": "Creadores de la compañía ",
+  "country": "País"
+}
